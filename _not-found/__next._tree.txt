@@ -1,2 +1,2 @@
-:HL["/dav-autoshop-preview/_next/static/chunks/0t7b5-6-tk95b.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"b8Cn5WhiIM9GPvhr6NiiO"}
+:HL["/dav-autoshop-preview/_next/static/chunks/29vlpifaxggth.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"tuzpAfoJtuhCfBJlqroza"}
